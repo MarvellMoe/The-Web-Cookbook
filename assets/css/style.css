@@ -1,0 +1,12 @@
+/* Google Fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Colours */
+body {
+    background: rgba(13, 202, 240, 0.45);
+}
+
+.navbar-brand:hover {
+    background: rgba(240, 51, 13, 0.55);
+}
